@@ -11,6 +11,6 @@ from pyfiglet import Figlet
 
 # Para verificar as fontes disponíveis ver site http://www.figlet.org/fontdb.cgi
 
-fonteEscolhida = Figlet(font='bell')
+fonteEscolhida = Figlet(font='doom')
 
-print (fonteEscolhida.renderText('Jefferson'))
+print (fonteEscolhida.renderText('Hello Word'))
